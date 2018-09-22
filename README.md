@@ -1,2 +1,2 @@
 # spring-cloud-config-git-repo-example
-Spring Cloud Config Example
+Testing Config for Spring Cloud Sample application
